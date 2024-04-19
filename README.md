@@ -5,7 +5,7 @@
 <div>
 <table>
     <tr>
-        <th rowspan="8">🌱 Backend</th>
+        <th rowspan="7">🌱 Backend</th>
         <td>Language</td>
         <td>
             <img src="https://img.shields.io/badge/Java 17-007396?style=flat-square&logo=Java&logoColor=white"/>
