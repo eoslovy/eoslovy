@@ -82,3 +82,8 @@
 <br/>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ydg0630)](https://solved.ac/ydg0630/)
+
+<h4>📬 Contacts 📬</h4>
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qaz74792@gmail.com)](mailto:ydg0630@gmail.com)
+</div>
