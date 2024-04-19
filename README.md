@@ -8,7 +8,7 @@
         <th rowspan="7">🌱 Backend</th>
         <td>Language</td>
         <td>
-            <img src="https://img.shields.io/badge/Java 17-007396?style=flat-square&logo=Java&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Java 18-007396?style=flat-square&logo=Java&logoColor=white"/>
         </td>
     </tr>
 	<tr>
