@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ydg0630)](https://solved.ac/ydg0630/)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoslovy)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **eoslovy/eoslovy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
