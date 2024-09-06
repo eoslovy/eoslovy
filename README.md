@@ -87,7 +87,7 @@
   </a>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeopp&layout=compact&theme=github_dark&border_color=31363C&hide_border=false&bg_color=00000000"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eoslovy&layout=compact&theme=github_dark&border_color=31363C&hide_border=false&bg_color=00000000"
       media="(prefers-color-scheme: dark)"
     />
     <source
