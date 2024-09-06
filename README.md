@@ -80,11 +80,33 @@
 </table>	
 </div>
 <br/>
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ydg0630)](https://solved.ac/ydg0630/)
-<h3>My stats</h3>
+
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ydg0630)](https://solved.ac/ydg0630/)
+            </td>
+            <td>
+                <picture>
+                    <source
+                        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eoslovy&layout=compact&theme=github_dark&border_color=31363C&hide_border=false&bg_color=00000000"
+                        media="(prefers-color-scheme: dark)"
+                    />
+                    <source
+                        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eoslovy&layout=compact"
+                        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                    />
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoslovy&layout=compact" />
+                </picture>
+            </td>
+        </tr>
+    </table>
+</div>  
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ydg0630)](https://solved.ac/ydg0630/) -->
+<!-- <h3>My stats</h3> -->
 <!-- git 통계: 화면 모드에 따라 다른 테마가 나오도록 media feature 사용 -->
-<picture>
+<!-- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=eoslovy&show_icons=true&theme=github_dark&border_color=31363C&hide_border=false&bg_color=00000000"
     media="(prefers-color-scheme: dark)"
@@ -94,10 +116,10 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=eoslovy&show_icons=true" />
-</picture>
+</picture> -->
 
 <!-- 사용하는 언어 통계: 화면 모드에 따라 다른 테마가 나오도록 -->
-<picture>
+<!--<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eoslovy&layout=compact&theme=github_dark&border_color=31363C&hide_border=false&bg_color=00000000"
     media="(prefers-color-scheme: dark)"
@@ -107,7 +129,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoslovy&layout=compact" />
-</picture>
+</picture> -->
 
 <h4>📬 Contacts 📬</h4>
 
