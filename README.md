@@ -81,23 +81,21 @@
 </div>
 <br/>
 
-<div align="center">
-    <div style="display: inline-block; margin-right: 5px;">
-        [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ydg0630)](https://solved.ac/ydg0630/)
-    </div>
-    <div style="display: inline-block;">
-        <picture>
-            <source
-                srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eoslovy&layout=compact&theme=github_dark&border_color=31363C&hide_border=false&bg_color=00000000"
-                media="(prefers-color-scheme: dark)"
-            />
-            <source
-                srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eoslovy&layout=compact"
-                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-            />
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoslovy&layout=compact" />
-        </picture>
-    </div>
+<div style="display: flex; align-items: center;">
+  <a href="https://solved.ac/ydg0630/" style="margin-right: 25px;">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ydg0630" alt="Solved.ac Profile" />
+  </a>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeopp&layout=compact&theme=github_dark&border_color=31363C&hide_border=false&bg_color=00000000"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eoslovy&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoslovy&layout=compact" alt="GitHub Top Languages" />
+  </picture>
 </div>
 
 
