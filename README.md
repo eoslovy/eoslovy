@@ -83,7 +83,7 @@
 
 <div style="display: flex; align-items: center;">
   <a href="https://solved.ac/ydg0630/" style="margin-right: 20px;">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eoslovy" alt="Solved.ac Profile" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ydg0630" alt="Solved.ac Profile" />
   </a>
   <picture>
     <source
