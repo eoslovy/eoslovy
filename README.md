@@ -82,7 +82,7 @@
 <br/>
 
 <div style="display: flex; align-items: center;">
-  <a href="https://solved.ac/ydg0630/" style="margin-right: 25px;">
+  <a href="https://solved.ac/ydg0630/" style="margin-right: 20px;">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ydg0630" alt="Solved.ac Profile" />
   </a>
   <picture>
