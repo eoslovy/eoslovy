@@ -5,10 +5,10 @@
 <div>
 <table>
     <tr>
-        <th rowspan="7">🌱 Backend</th>
+        <th rowspan="8">🌱 Backend</th>
         <td>Language</td>
         <td>
-            <img src="https://img.shields.io/badge/Java 18-007396?style=flat-square&logo=Java&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Java 17-007396?style=flat-square&logo=Java&logoColor=white"/>
         </td>
     </tr>
 	<tr>
@@ -47,10 +47,19 @@
         <td>Container</td>
         <td>
             <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Docker Compose-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+        </td>
+    </tr>
+    <tr>
+        <td>ETC</td>
+        <td>
+            <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
+            <img src="https://img.shields.io/badge/GitLab CI/CD-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
+            <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/>
         </td>
     </tr>
 	<tr>
-        <th rowspan="3">👨‍👩‍👦‍👦 Collaboration</th>
+        <th rowspan="3">👨‍👩‍👦 Collaboration</th>
         <td>API</td>
         <td>
 	    <img src="https://img.shields.io/badge/Swagger-63CC63?style=flat-square&logo=Swagger&logoColor=white"/>
@@ -75,6 +84,7 @@
         <td colspan="2">
             <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/>
             <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/>
+            <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>
         </td>
     </tr>
 </table>	
