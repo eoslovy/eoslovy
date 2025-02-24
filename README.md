@@ -55,6 +55,7 @@
         <td>
             <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
             <img src="https://img.shields.io/badge/GitLab CI/CD-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Gitlab‑runner-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
             <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/>
         </td>
     </tr>
@@ -71,6 +72,8 @@
         <td>
             <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
             <img src="https://img.shields.io/badge/Google Meet-00897B?style=flat-square&logo=Google Meet&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
         </td>
     </tr>
 	<tr>
