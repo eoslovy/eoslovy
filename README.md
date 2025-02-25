@@ -15,6 +15,8 @@
         <td>Framework</td>
         <td>
             <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Spring Scheduler-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
         </td>
     </tr>
 	<tr>
@@ -57,6 +59,7 @@
             <img src="https://img.shields.io/badge/GitLab CI/CD-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Gitlab‑runner-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
             <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/>
+    </td
         </td>
     </tr>
 	<tr>
