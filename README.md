@@ -14,7 +14,7 @@
 	<tr>
         <td>Framework</td>
         <td>
-            <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Springboot&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Spring Scheduler-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
         </td>
@@ -22,14 +22,14 @@
 	<tr>
         <td>ORM</td>
         <td>
-            <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=Spring Data JPA&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
         </td>
     </tr>
     <tr>
         <td>Authorization</td>
         <td>
-            <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/>
-            <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON Web Tokens&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+            <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
         </td>
     </tr>
 	<tr>
@@ -58,8 +58,8 @@
             <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
             <img src="https://img.shields.io/badge/GitLab CI/CD-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Gitlab‑runner-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
-            <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/>
-		<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/>
+            <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
     </td
         </td>
     </tr>
@@ -83,15 +83,15 @@
 	<tr>
         <td>IDE</td>
         <td>
-            <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
+            <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
         </td>
     </tr>
 	<tr>
         <th>🛠 AWS Public Cloud Service</th>
         <td colspan="2">
-            <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/>
-            <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/>
-            <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>
+            <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+            <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
+            <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
         </td>
     </tr>
 </table>	
@@ -147,4 +147,6 @@
 <h4>📬 Contacts 📬</h4>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qaz74792@gmail.com)](mailto:ydg0630@gmail.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feoslovy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Feoslovy?label=hits&labelColor=%23555555&color=%2379C83D&size=small)](https://myhits.vercel.app)
+
+
