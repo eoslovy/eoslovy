@@ -75,7 +75,7 @@
         <td>Communication</td>
         <td>
             <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Google Meet-00897B?style=flat-square&logo=Google Meet&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Google Meet-00897B?style=flat-square&logo=googlemeet&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
         </td>
