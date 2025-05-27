@@ -60,7 +60,7 @@
 		<img src="https://img.shields.io/badge/Gitlab‑runner-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
             <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-    </td
+		<img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white"/>
         </td>
     </tr>
 	<tr>
